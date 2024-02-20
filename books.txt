@@ -1,0 +1,11 @@
+ID,Title,Author,Publish Date,Page Count,Genre,Added Date
+28756, The Night Circus, Erin Morgenstern, 2011-09-13, 400, Fantasy, 2024-02-19
+59124, To Kill a Mockingbird, Harper Lee, 1960-07-11, 336, Fiction, 2024-02-19
+87341, 1984, George Orwell, 1949-06-08, 328, Dystopian, 2024-02-19
+46289, Pride and Prejudice, Jane Austen, 1813-01-28, 279, Romance, 2024-02-19
+13579, The Great Gatsby, F. Scott Fitzgerald, 1925-04-10, 218, Classic, 2024-02-19
+72916, Harry Potter and the Sorcerer's Stone, J.K. Rowling, 1997-06-26, 320, Fantasy, 2024-02-19
+60482, The Catcher in the Rye, J.D. Salinger, 1951-07-16, 277, Fiction, 2024-02-19
+82104, To the Lighthouse, Virginia Woolf, 1927-05-05, 209, Modernist, 2024-02-19
+37916, The Hobbit, J.R.R. Tolkien, 1937-09-21, 310, Fantasy, 2024-02-19
+56824, Brave New World, Aldous Huxley, 1932-06-01, 311, Science Fiction, 2024-02-19
